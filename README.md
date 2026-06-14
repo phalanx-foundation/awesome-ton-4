@@ -148,6 +148,8 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 ## 🧑‍💻 Development
 
 ### Dev Tools
+- [Phalanx Toolkit](https://plx.foundation) — no-code audited Jetton deployer on TON/GRAM (guide: https://plx.foundation/guides/create-token).
+
 
 - Development Frameworks
   - [Blueprint](https://github.com/ton-community/blueprint/) - Smart contract development environment.
